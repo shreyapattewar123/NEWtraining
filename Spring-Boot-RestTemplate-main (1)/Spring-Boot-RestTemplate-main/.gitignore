@@ -1,0 +1,46 @@
+tomcat
+
+# Binaries
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
+
+# Maven 
+target/
+
+# eclipse project file
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+
+# Misc
+*.swp
+release.properties
+pom.xml.releaseBackup
+pom.xml.tag
+spring-demo-webapp/.mvn/wrapper/maven-wrapper.jar
+spring-demo-webapp/.mvn/wrapper/maven-wrapper.properties
+spring-demo-webapp/.mvn/wrapper/MavenWrapperDownloader.java
+spring-demo-webapp/mvnw
+spring-demo-webapp/mvnw.cmd
+spring-demo-webapp/.mvn/wrapper/maven-wrapper.jar
+spring-resttemplate-client-app/.mvn/wrapper/maven-wrapper.jar
+spring-resttemplate-client-app/.mvn/wrapper/maven-wrapper.properties
+spring-resttemplate-client-app/.mvn/wrapper/MavenWrapperDownloader.java
+spring-resttemplate-client-app/mvnw
+spring-resttemplate-client-app/mvnw.cmd
+*.jar
+spring-demo-webapp/HELP.md
+spring-resttemplate-client-app/.mvn/wrapper/maven-wrapper.jar
